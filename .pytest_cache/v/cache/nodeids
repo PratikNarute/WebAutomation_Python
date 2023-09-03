@@ -1,0 +1,6 @@
+[
+  "testCases/test_1Login.py::Test_Login::test_loginButton",
+  "testCases/test_1Login.py::Test_Login::test_password",
+  "testCases/test_1Login.py::Test_Login::test_username",
+  "testCases/test_2Lead.py::Test_Lead::test_Create_interested_lead"
+]

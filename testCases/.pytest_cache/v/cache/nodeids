@@ -1,0 +1,20 @@
+[
+  "test_1Login.py::Test_Login::test_loginButton",
+  "test_1Login.py::Test_Login::test_password",
+  "test_1Login.py::Test_Login::test_username",
+  "test_2Lead.py::Test_Lead::test_Create_interested_lead",
+  "test_Lead.py::Test_Lead::test_Create_interested_lead",
+  "test_Login.py::Test_Login::test_Create_interested_lead",
+  "test_Login.py::Test_Login::test_ausername",
+  "test_Login.py::Test_Login::test_bpassword",
+  "test_Login.py::Test_Login::test_cloginButton",
+  "test_Login.py::Test_Login::test_loginButton",
+  "test_Login.py::Test_Login::test_password",
+  "test_Login.py::Test_Login::test_username",
+  "test_Login.py::Test_LoginPage::test_clickOnLoginButton",
+  "test_Login.py::Test_LoginPage::test_enterName",
+  "test_Login.py::Test_LoginPage::test_enterPassword",
+  "test_Login.py::Test_LoginPage::test_login_with_credential_info",
+  "test_Login.py::Test_LoginPage::test_openURL",
+  "test_Login.py::test_login_with_credential_info"
+]

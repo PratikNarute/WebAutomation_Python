@@ -1,0 +1,5 @@
+{
+  "test_Login.py::test_login_with_credential_info": true,
+  "test_lead.py": true,
+  "test_1Login.py::Test_Login::test_username": true
+}
